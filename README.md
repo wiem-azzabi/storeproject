@@ -1,2 +1,2 @@
 this is my first react project.
-I built an online shopping web site in reactJS
+I built the front-end of an online shopping web site in reactJS
